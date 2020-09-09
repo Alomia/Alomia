@@ -9,5 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa">
+https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa
